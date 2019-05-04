@@ -8,4 +8,4 @@ cd simundia
 ruby app.rb
 ```
 
-Le fichier transformé se trouve désormais dans `output.csv
+Le fichier transformé se trouve désormais dans `output.csv`
